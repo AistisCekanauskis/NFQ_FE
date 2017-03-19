@@ -1,0 +1,23 @@
+{
+  "name": "nfq_fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AistisCekanauskis/NFQ_FE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AistisCekanauskis/NFQ_FE/issues"
+  },
+  "homepage": "https://github.com/AistisCekanauskis/NFQ_FE#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
